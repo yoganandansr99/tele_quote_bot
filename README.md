@@ -1,13 +1,19 @@
- *Tele Quote Bot:
+🗣️ Tele Quote Bot
+
 A simple Telegram bot that delivers daily inspiration through quotes. Built with Python and powered by the python-telegram-bot library.
 
- *Features:
+📦 Features
+
 Sends random quotes on demand
+
 Daily quote subscription
+
 Easy-to-use commands
+
 Lightweight and customizable
 
-*Setup
+🛠️ Setup
+
 1. Clone the repository
 
 git clone https://github.com/yoganandansr99/tele_quote_bot.git
@@ -27,7 +33,8 @@ TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 
 python bot.py
 
->*>Commands
+💬 Commands
+
 /start – Welcome message
 
 /quote – Get a random quote
@@ -38,7 +45,7 @@ python bot.py
 
 /help – Show help message
 
-*Future Improvements
+🚀 Future Improvements
 
 Add quote categories
 
@@ -46,6 +53,6 @@ Support for multiple languages
 
 Scheduled delivery customization
 
-*License
+📄 License
 
 Open-source and free to use. Contributions welcome!
